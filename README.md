@@ -11,7 +11,7 @@ Scripts for statistics and plotting figures in "A specialized metabolic network 
 
 If you used these scripts, please cited the paper below:
 
-Humang, et.al. A specialized metabolic network selectively modulates Arabidopsis root microbiota. 2019.
-DOI: http://dx.doi.org/10.1126/science.aau6389
+Ancheng C. Huang*, Ting Jiang*, Yong-Xin Liu, Yue-Chen Bai, James Reed,
+Baoyuan Qu, Alain Goossens, Hans-Wilhelm Nützmann, Yang Bai†, Anne Osbourn†. A specialized metabolic network selectively modulates Arabidopsis root microbiota. 2019. ***Science***. DOI: http://dx.doi.org/10.1126/science.aau6389
 
 Cite this article as A. C. Huang et al., Science 364, eaau6389 (2019). DOI: 10.1126/science.aau6389
